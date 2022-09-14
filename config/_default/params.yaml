@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: theme_yellow
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: my_font 
+  font_size: m
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'The homepage of Ruitao Xie.'
+    twitter: 
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,9 +33,9 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    show_logo: false
+    show_language: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '' #'© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -64,9 +64,9 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
@@ -78,7 +78,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
   search:
@@ -107,3 +107,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+highlight_superuser: true
