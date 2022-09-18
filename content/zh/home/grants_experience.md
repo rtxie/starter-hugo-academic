@@ -60,7 +60,7 @@ experience:
   - title: 下一代数据中心网络自适应拥塞控制方法研究 (827000444)
     company: ￥2,700,000 <br> 深圳市高层次人才(孔雀计划)科研经费 <br> 深圳市人力资源和社会保障局
     company_url: ''
-    company_logo: rsj
+    company_logo: szrs
     location:
     date_start: '2020-01-01'
     date_end: '2022-12-31'

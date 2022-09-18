@@ -60,7 +60,7 @@ experience:
   - title: Research on Adaptive Congestion Control for Next Generation Data Center<br> Networks (827000444)
     company: ￥2,700,000 <br> Research Grant for Top Talents in Shenzhen (Peacock Program) <br> Human Resources and Social Security Bureau of Shenzhen Municipality
     company_url: ''
-    company_logo: rsj
+    company_logo: szrs
     location:
     date_start: '2020-01-01'
     date_end: '2022-12-31'
