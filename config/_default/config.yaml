@@ -47,9 +47,11 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
-  quality: 75
+  hint: text
+  resampleFilter: Lanczos
+  quality: 100
   anchor: smart
+  bgColor: '#F0F3F7'
 timeout: 600000
 taxonomies:
   tag: tags

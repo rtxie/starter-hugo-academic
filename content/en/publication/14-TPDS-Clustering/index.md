@@ -13,7 +13,7 @@ tags:
 categories: []
 date: '2014-03-01'
 lastmod: 2022-09-13T23:13:47+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
