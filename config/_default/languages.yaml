@@ -33,6 +33,9 @@ zh:
       - name: 论文
         url: '#publications'
         weight: 50
+      - name: 课程
+        url: '#courses'
+        weight: 60
       - name: 联系方式
         url: '#contact'
-        weight: 60
+        weight: 70

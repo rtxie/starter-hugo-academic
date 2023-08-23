@@ -5,6 +5,7 @@
 
 title: Ruitao Xie's Homepage # Website name
 baseURL: 'https://rtxie.github.io/' # Website URL
+theme: "wowchemy"
 
 ############################
 ## LANGUAGE
@@ -21,10 +22,14 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: ./themes/wowchemy/modules/wowchemy-plugin-netlify-cms
+    - path: ./themes/wowchemy/modules/wowchemy-plugin-netlify
+    - path: ./themes/wowchemy/modules/wowchemy-plugin-reveal
+    - path: ./themes/wowchemy/modules/wowchemy
+#    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+#    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+#    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+#    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
 ## ADVANCED
