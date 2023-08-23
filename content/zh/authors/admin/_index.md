@@ -6,7 +6,7 @@ title: Ruitao Xie
 superuser: true
 
 # Role/position/tagline
-role: 助理教授
+role: 副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,6 +59,6 @@ highlight_name: true
 
 ---
 
-谢瑞桃是深圳大学物联网研究中心助理教授。她的研究兴趣包括人工智能网络，边缘计算，云计算和移动计算。她领导智能云边计算研究组。已在国际著名期刊和会议上发表论文20余篇，如JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM等。
+谢瑞桃是深圳大学物联网研究中心副教授。她的研究兴趣包括人工智能网络，边缘计算，云计算和移动计算。她领导智能云边计算研究组。已在国际著名期刊和会议上发表论文20余篇，如JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM等。
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

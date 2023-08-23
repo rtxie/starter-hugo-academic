@@ -37,7 +37,7 @@ experience:
     company_logo: szu
     location: 深圳
     date_start: '2017-09-01'
-    date_end: ''
+    date_end: '2023-08-01'
     description:
 
   - title: 研究员

@@ -6,7 +6,7 @@ title: Ruitao Xie
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,6 +59,6 @@ highlight_name: true
 
 ---
 
-Ruitao Xie is an assistant professor at the Shenzhen University IOT Research Center. Her research interests include AI networking, edge computing, cloud computing, and mobile computing. She leads the Intelligent Cloud-Edge Computing group. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc.
+Ruitao Xie is an associate professor at the Shenzhen University IOT Research Center. Her research interests include AI networking, edge computing, cloud computing, and mobile computing. She leads the Intelligent Cloud-Edge Computing group. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

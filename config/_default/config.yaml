@@ -21,10 +21,6 @@ removePathAccents: true
 
 module:
   imports:
-    # - path: modules/wowchemy-plugin-netlify-cms
-    # - path: modules/wowchemy-plugin-netlify
-    # - path: modules/wowchemy-plugin-reveal
-    # - path: modules/wowchemy
    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
