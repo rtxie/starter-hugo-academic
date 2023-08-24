@@ -59,6 +59,6 @@ highlight_name: true
 
 ---
 
-谢瑞桃是深圳大学物联网研究中心副教授。她的研究兴趣包括人工智能网络，边缘计算，云计算和移动计算。她领导智能云边计算研究组。已在国际著名期刊和会议上发表论文20余篇，如JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM等。
+谢瑞桃是深圳大学物联网研究中心副教授，领导智能云边计算研究组。研究兴趣包括人工智能网络，边缘计算，云计算和移动计算。主持两项国家自然科学基金项目，一项省级自然科学基金项目。在国际著名期刊和会议上发表论文20余篇，如JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM等。
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

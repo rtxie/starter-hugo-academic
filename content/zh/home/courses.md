@@ -42,7 +42,7 @@ design:
     border-collapse: collapse;
     width: 100%;
     border: 2px solid #333; /* 表格边框 */
-    font-size: 18px;
+    font-size: 1rem;
   }
 
   th, td {
