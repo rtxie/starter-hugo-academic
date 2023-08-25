@@ -28,6 +28,7 @@ design:
 
 | Academic Year and Semester | Course        | Evaluation Relative Ranking (TOP) |
 |---------------------------|---------------|----------------------------------|
+| 2022-2023 Spring          | Computer Networks | 4.84%                         |
 | 2021-2022 Spring          | Computer Networks | 14.62%                         |
 | 2020-2021 Spring          | Computer Networks | 11.76%                         |
 | 2019-2020 Spring          | Computer Networks | 23.88%                         |
