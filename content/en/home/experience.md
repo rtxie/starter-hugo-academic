@@ -50,16 +50,16 @@ experience:
     description: 
 
   - title: Senior Research Associate
-    company: Department of Computer Science <br> City University of Hong Kong
+    company: Supervisor [Professor Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/) <br> Department of Computer Science <br> City University of Hong Kong
     company_url: ''
     company_logo: cityu
     location: Hong Kong
     date_start: '2014-09-01'
     date_end: '2015-10-01'
-    description: 
+    description:
 
   - title: Visiting Student
-    company: School of Electrical and Electronic Engineering <br> Nanyang Technological University
+    company: Supervisor [Professor Yonggang Wen](https://personal.ntu.edu.sg/ygwen/) <br> School of Electrical and Electronic Engineering <br> Nanyang Technological University
     company_url: ''
     company_logo: ntu
     location: Singapore

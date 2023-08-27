@@ -16,32 +16,32 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI networking, edge computing, cloud computing, and mobile computing.
 
-# Interests to show in About widget
-interests:
-  - AI Networking
-  - Cloud-Edge Computing
-  - Mobile Computing
+# # Interests to show in About widget
+# interests:
+#   - AI Networking
+#   - Cloud-Edge Computing
+#   - Mobile Computing
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: City University of Hong Kong
-      year: 2014
-    - course: BE in Communication Engineering
-      institution: Beijing University of Posts and Telecommunications
-      year: 2008
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Computer Science
+#       institution: City University of Hong Kong
+#       year: 2014
+#     - course: BE in Communication Engineering
+#       institution: Beijing University of Posts and Telecommunications
+#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=eWCNDKIAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
@@ -56,9 +56,10 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
 ---
 
-Ruitao Xie is an associate professor at the Shenzhen University IOT Research Center. Her research interests include AI networking, edge computing, cloud computing, and mobile computing. She leads the Intelligent Cloud-Edge Computing group. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc.
+<br><br><br>
+Ruitao Xie is an associate professor at the [Shenzhen University](https://www.szu.edu.cn/) IOT Research Center. She leads the Intelligent Cloud-Edge Computing group. Her research interests include AI networking, edge computing, cloud computing, and mobile computing. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc.
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

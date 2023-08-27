@@ -21,6 +21,9 @@ zh:
       - name: 主页
         url: '#about'
         weight: 10
+      - name: 教育经历
+        url: '#education'
+        weight: 15
       - name: 工作经历
         url: '#experience'
         weight: 20

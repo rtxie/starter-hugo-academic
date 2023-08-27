@@ -50,7 +50,7 @@ experience:
     description: 
 
   - title: 高级助理研究员
-    company: 计算机系 <br> 香港城市大学
+    company: 导师 [贾小华教授](https://www.cs.cityu.edu.hk/~jia/) <br> 计算机系 <br> 香港城市大学
     company_url: ''
     company_logo: cityu
     location: 香港
@@ -59,7 +59,7 @@ experience:
     description: 
 
   - title: 访问学生
-    company: 电气与电子工程学院 <br> 南洋理工大学
+    company: 导师 [文勇刚教授](https://personal.ntu.edu.sg/ygwen/) <br> 电气与电子工程学院 <br> 南洋理工大学
     company_url: ''
     company_logo: ntu
     location: 新加坡

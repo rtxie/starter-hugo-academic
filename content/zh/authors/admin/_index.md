@@ -16,21 +16,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 研究兴趣包括人工智能网络，边缘计算，云计算，移动计算.
 
-# Interests to show in About widget
-interests:
-  - 人工智能网络
-  - 云边计算
-  - 移动计算
+# # Interests to show in About widget
+# interests:
+#   - 人工智能网络
+#   - 云边计算
+#   - 移动计算
 
-# Education to show in About widget
-education:
-  courses:
-    - course: 计算机博士
-      institution: 香港城市大学
-      year: 2014
-    - course: 通信工程学士
-      institution: 北京邮电大学
-      year: 2008
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: 计算机博士
+#       institution: 香港城市大学
+#       year: 2014
+#     - course: 通信工程学士
+#       institution: 北京邮电大学
+#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,8 +40,8 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=eWCNDKIAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
@@ -58,7 +58,7 @@ email: ''
 highlight_name: true
 
 ---
-
+<br><br><br><br>
 谢瑞桃是深圳大学物联网研究中心副教授，领导智能云边计算研究组。研究兴趣包括人工智能网络，边缘计算，云计算和移动计算。主持两项国家自然科学基金项目，一项省级自然科学基金项目。在国际著名期刊和会议上发表论文20余篇，如JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM等。
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
