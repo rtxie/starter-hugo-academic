@@ -10,8 +10,8 @@ role: 副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 深圳大学
-    url: https://www.szu.edu.cn/
+  - name: 深圳大学计算机与软件学院
+    url: https://csse.szu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 研究兴趣包括人工智能网络，边缘计算，云计算，移动计算.
@@ -59,6 +59,7 @@ highlight_name: true
 
 ---
 <br><br><br><br>
-谢瑞桃是深圳大学物联网研究中心副教授，领导智能云边计算研究组。研究兴趣包括人工智能网络，边缘计算，云计算和移动计算。主持两项国家自然科学基金项目，一项省级自然科学基金项目。在国际著名期刊和会议上发表论文20余篇，如JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM等。
+博士，深圳大学计算机与软件学院副教授，领导深圳大学物联网研究中心智能云边计算研究组。主要研究方向包括人工智能网络，边缘计算，云计算和移动计算。2014年毕业于香港城市大学计算机科学系，2008年毕业于北京邮电大学通信工程专业。主持两项国家自然科学基金项目（面上项目和青年项目），一项省级自然科学基金面上项目。在国际权威期刊和会议上发表论文20余篇，如JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM等。
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

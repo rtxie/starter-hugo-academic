@@ -10,8 +10,8 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shenzhen University
-    url: https://www.szu.edu.cn/
+  - name: CSSE Shenzhen University
+    url: https://csse.szu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI networking, edge computing, cloud computing, and mobile computing.
@@ -59,7 +59,6 @@ highlight_name: true
 ---
 
 <br><br><br>
-Ruitao Xie is an associate professor at the [Shenzhen University](https://www.szu.edu.cn/) IOT Research Center. She leads the Intelligent Cloud-Edge Computing group. Her research interests include AI networking, edge computing, cloud computing, and mobile computing. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc.
-
+Ruitao Xie is an associate professor at the CSSE Shenzhen University. She leads the Intelligent Cloud-Edge Computing group in IOT Research Center. Her research interests include AI networking, edge computing, cloud computing, and mobile computing. She is the principal investigator of several projects, including two projects funded by the National Natural Science Foundation of China (NSFC) and a project funded by the Natural Science Foundation of Guangdong Province of China. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
