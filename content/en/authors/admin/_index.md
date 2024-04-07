@@ -59,7 +59,7 @@ highlight_name: true
 ---
 
 <br><br><br>
-Ruitao Xie is an associate professor at the CSSE Shenzhen University. She leads the Intelligent Cloud-Edge Computing group in IOT Research Center. Her research interests include AI networking, edge computing, cloud computing, and mobile computing. She is the principal investigator of several projects, including two projects funded by the National Natural Science Foundation of China (NSFC) and a project funded by the Natural Science Foundation of Guangdong Province of China. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc. 
+Ruitao Xie is an associate professor at the CSSE Shenzhen University. She leads the Intelligent Cloud-Edge Computing group in IOT Research Center. Her research interests include scheduling system resources to improve the performance of AI applications, edge computing, cloud computing, and mobile computing. She is the principal investigator of several projects, including two projects funded by the National Natural Science Foundation of China (NSFC) and a project funded by the Natural Science Foundation of Guangdong Province of China. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc. 
 <br>
 I am looking for strongly motivated graduate students to join our research group. 
 
