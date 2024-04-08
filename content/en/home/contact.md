@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: <mylastname>@szu.edu.cn
+  email: +++@szu.edu.cn, please replace the three characters +++ with my family name
   # phone: 888 888 88 88
   address:
     street: Room 1034, Zhiteng building, Canghai Campus, Shenzhen University

@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: <mylastname>@szu.edu.cn
+  email: +++@szu.edu.cn, 请将+++三个字符替换成我的姓氏拼音全拼
   # phone: 888 888 88 88
   address:
     street: 深圳大学, 沧海校区, 致腾楼, 1034办公室
