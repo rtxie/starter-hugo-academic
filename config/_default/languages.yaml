@@ -36,9 +36,12 @@ zh:
       - name: 论文
         url: '#publications'
         weight: 50
-      - name: 课程
+      - name: 课程评测
         url: '#courses'
         weight: 60
+      - name: 计算机网络
+        url: 'computer-network'
+        weight: 65
       - name: 联系方式
         url: '#contact'
         weight: 70

@@ -77,3 +77,6 @@ sitemap:
 minify:
   _merge: deep
 theme: ["hugo-cloak-email"]
+mainSections:
+     - computer-network
+     
