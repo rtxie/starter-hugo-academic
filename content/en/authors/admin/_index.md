@@ -43,7 +43,10 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=eWCNDKIAAAAJ&hl=en
-
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-7198-9261
+    
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -60,7 +63,7 @@ highlight_name: true
 
 <br><br><br>
 Ruitao Xie is an associate professor at the CSSE Shenzhen University. She leads the Intelligent Cloud-Edge Computing group in IOT Research Center. Her research interests include scheduling system resources to improve the performance of AI applications, edge computing, cloud computing, and mobile computing. She is the principal investigator of several projects, including two projects funded by the National Natural Science Foundation of China (NSFC) and a project funded by the Natural Science Foundation of Guangdong Province of China. She has published 20 research papers in international leading journals and conferences, like JSAC, TPDS, TMC, TCC, TVT, TIFS, MWC, INFOCOM, etc. 
-<br>
+<br><br>
 I am looking for strongly motivated graduate students to join our research group. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
